@@ -1,0 +1,191 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+.Main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+Aside{
+  background-color:rgba(30, 41, 57, 1);
+}
+.sidebar{
+  color: #ffffff;
+  padding-left: 25px;
+  padding-right: 10px;
+  padding-top: 10px;
+  width: 370px;  
+}
+.sidebar a{
+  color:#acacac;
+}
+.sidebar li{
+  color: rgba(255, 106, 53, 1);
+  margin-left: -25px;
+}
+.sidebar ul{
+  color:#acacac;
+}
+.sidebar span{
+  color: #ffffff;
+}
+.contact{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.contact span{
+  padding-right: 5px;
+}
+.TechSkills{
+  color: #FFFFFF;
+  padding-bottom: 10px;
+}
+
+.container1{
+padding: 105px 90px;
+}
+h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+}
+.user{
+  width: 400px;
+  font-weight: bold;
+}
+.user h2{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+.user p{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.projects{
+  width: 485px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+.projects h3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+.projects a{
+  color: black;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 10px;
+}
+.project_item{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.brackets{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.subContent{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.project_item{
+  padding: 0;
+  margin-left: -25px;
+}
+.tittle{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin-bottom: 10px;
+}
+
+/* Work exp */
+.work_expirience ul{
+  margin-left: -25px;
+}
+
+.positionj{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+.positionj span{
+  color: rgba(251, 109, 58, 1);
+}
+.job_2-tittle{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+}
+.t1{
+  color: #000000;
+  font-weight: 700;
+}
+.Job_1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959; 
+}
+.Roga{
+  color: rgba(251, 109, 58, 1);
+}
+.Job_2 li{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.Education h3{
+  color:#FB6D3A;;
+}
+.Education p{
+  font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
