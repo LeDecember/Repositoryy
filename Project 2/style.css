@@ -81,3 +81,66 @@ nav a{
     color: white;
     max-width: 70%;
 }
+
+.Second_Container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.Item_container{
+    display: flex;
+    width: 100%;
+}
+.ItemBox{
+    text-align: center;
+    display: flex;
+    padding: 0 40px 100px 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 19px;
+    font-weight: 50;
+    word-spacing: 3px;
+    margin-left: 50px;
+}
+.ItemBox hr{
+    width: 100%;
+}
+
+.Name_1{
+padding-bottom: 100px;
+}
+.Name-curs{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 300;
+}
+.Three_container{
+    background-color: #5b53e0;
+    min-height: 300px;
+    display: flex;
+}
+.Inform_name{
+    text-align: center;
+}
+
+.Container_inform{
+    display: flex;
+    flex-direction: row;
+}
+.Inform_Box{
+    display: flex;
+    flex-direction: column;
+    padding: 0 40px 0 0;
+    margin:60px;
+}
+.number_text{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.sub_text{
+    color: #abafb9;
+    font-size: 13px;
+    font-weight: 500;
+}
